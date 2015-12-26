@@ -1,0 +1,12 @@
+{
+  "navs": [
+    { 
+      "lib": "home",
+      "link": "/"
+    },
+    { 
+      "lib": "api",
+      "link": "/apis"
+    }
+  ]
+ }

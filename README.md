@@ -1,7 +1,9 @@
 # nodejs-sample
-Sample nodejs application 
+Sample api with nodejs
 
-sample api with nodejs
+
+
+# Installation
 
 npm install
 
@@ -9,5 +11,5 @@ run migrate.js to create mysl schema
 
 npm start
 
-http://localhost:3000/apis/users
+http://localhost:3000/api/users
  
